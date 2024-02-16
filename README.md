@@ -36,10 +36,10 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 ❌ If not, point out 'why' and spam the issue section 🚩 
 ```
 
-<br>
+
 <br>
 
-### Python Application
+## Python Application
 
 * 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Simple voice recorder with custom time limit 
 * 🔑 [Password Protect PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF) : Protect a pdf with custom password 
@@ -65,7 +65,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 
 <br>
 
-### Machine Learning Applications 
+## Machine Learning Applications 
 
 `chatGPT`
 
@@ -82,7 +82,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 
 <br>
 
-### Setup 
+## Setup 
 
 Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the dependencies and generate API keys and incorporate with our applications. I've articulated the steps in text format here : 
 
@@ -97,7 +97,7 @@ Refer to this [setup video](https://youtu.be/beEBeQw5tpc) to install the depende
 
 <br>
 
-### Contributing
+## Contributing
 
 Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 
@@ -111,7 +111,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 <br>
 
 
-### Do you want to join @qxresearch and contribute to new projects? 
+## Do you want to join @qxresearch and contribute to new projects? 
 
 * Fill up this [Form](https://forms.gle/tqR8Pa6j27CHaorT6)
 * Subscribe to support : [@qxresearch](https://www.youtube.com/qxresearch) 
